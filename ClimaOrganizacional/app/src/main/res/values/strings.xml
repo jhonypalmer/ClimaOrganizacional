@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">ClimaOrganizacional</string>
+    <string name="text_accounts">Todas as Contas</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirme Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Registro</string>
+    <string name="error_message_name">Escreva Seu Nome Completo</string>
+    <string name="error_message_email">Email Inválido</string>
+    <string name="error_message_age">Escreva Sua Idade</string>
+    <string name="error_message_password">Escreva Seu Password</string>
+    <string name="success_message">Registrado com Sucesso!</string>
+    <string name="text_not_member">Não possui conta? Registrar</string>
+    <string name="text_already_member">Já é um Membro? Login</string>
+    <string name="error_email_exists">Email Já Cadastrado</string>
+    <string name="error_password_match">Password Inválido</string>
+    <string name="error_valid_email_password">Email ou Password Estão Errados</string>
+    <string name="action_settings">Configurações</string>
+    <string name="text_hello">Olá,</string>
+    <string name="text_title">Projeto UFG</string>
 </resources>
